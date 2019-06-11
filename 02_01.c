@@ -2,7 +2,7 @@
 
 int main(void) {
 
-	printf("あべし\n");
+	printf("\n");
 	
 	return 0;
 }
